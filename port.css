@@ -1,0 +1,196 @@
+* {background-color: black;
+    margin: 0%;
+    padding: 0%;
+    font-family:  "Poppins", sans-serif;
+    color: white;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    padding-top: 20px;
+  }
+  #nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  #nav ul li a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+  }
+  #nav ul li a:hover {
+    border-bottom: 2px solid;
+    color: rgb(0, 157, 248);
+    font-weight: 1000;
+  }
+  #port {
+    font-size: 30px;
+    padding: 10px 50px;
+  }
+  span i {
+    color: rgb(0, 157, 248);
+    font-size: 20px;
+  }
+  #contents {
+    margin: 100px;
+  }
+  #contents p {
+    font-size: 60px;
+    display: flex;
+  }
+  #name {
+    color: rgb(0, 157, 248);
+  }
+  #contents button {
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    color: white;
+    background-color: rgb(0, 157, 248);
+  }
+  #contents button:hover {
+    font-weight: 1000;
+  }
+  #FirstPage {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+  }
+  #SM ul li {
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  #SM ul li:hover {
+    color: blueviolet;
+    font-weight: 1000;
+  }
+  #SM ul {
+    margin-left: 60px;
+  }
+  #img1 {
+    width: 400px;
+    height: 400px;
+    margin-right: 100px;
+    margin-top: 90px;
+  }
+  #SP {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  #aboutMe {
+    margin: 100px;
+    background-color: rgb(8, 8, 8);
+    box-shadow: 5px 5px 15px rgb(64, 64, 64);
+    border-radius: 10px;
+    display: flex;
+  }
+  #aboutMe img {
+    height: 225px;
+    width: 200px;
+    margin: 50px;
+  }
+  #para {
+    margin-top: 50px;
+    margin-right: 50px;
+  }
+  #para button {
+    border-style: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(0, 157, 248);
+  }
+  #para button:hover {
+    font-weight: 1000;
+  }
+  #h3 {
+    display: flex;
+  }
+  #h3-2 {
+    color: rgb(0, 157, 248);
+    padding-left: 8px;
+  }
+  #services {
+    display: flex;
+  }
+  #TP {
+    padding-bottom: 70px;
+    padding-top: 50px;
+  }
+  #TP center {
+    font-size: 75px;
+  }
+  #TP button {
+    border-style: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(0, 157, 248);
+  }
+  #TP button:hover {
+    font-weight: 1000;
+  }
+  #services div {
+    margin: 50px;
+    box-shadow: 5px 5px 15px rgb(64, 64, 64);
+    padding: 20px;
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    background-color: rgb(8, 8, 8);
+  }
+  #services div i {
+    font-size: 80px;
+    /* text-align: center; */
+    justify-content: center;
+    color: rgb(0, 157, 248);
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  #hireMe {
+    background-color: rgb(8, 8, 8);
+  }
+  #hireME h2 {
+    padding: 30px;
+  }
+  #hireMe button {
+    border-style: none;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(0, 157, 248);
+    font-size: larger;
+    margin-bottom: 40px;
+  }
+  #hireMe button:hover {
+    font-weight: 1000;
+  }
+  #support {
+    background-color: rgb(8, 8, 8);;
+  }
+  #support ul li {
+    display: inline-block;
+    padding: 30px;
+    font-size: larger;
+  }
+  #support ul li:hover {
+    color: rgb(0, 157, 248);
+    cursor: pointer;
+  }
+  #support p {
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  
